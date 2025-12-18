@@ -1,4 +1,5 @@
 # 🏥 Program Utilisation Report for Community Health Services #
+> 🔍 Identified **22% of service capacity lost** due to cancellations and non-attendance driven by cancellations and non-attendance — highlighting key utilisation gaps.
 
 ## 📘Project Background ##
 
