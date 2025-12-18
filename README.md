@@ -157,7 +157,7 @@ This reflects the 25–34 age group’s comfort and familiarity with technology-
 - Among the gender demographic, **Telehealth accounted for approximately 27%** of overall service utilisation and around **4% specifically for Mental Health Support services** in females.
 <img width="650" height="187" alt="image" src="https://github.com/user-attachments/assets/57814cfd-09a2-45ed-9433-9e940427d444" />
 
-- Despite males accounting for a relatively small share of total service utilisation (~11%) in 2024, demand for **Mental Health Support among males increased by ~20%**. **Growth in the ‘Other’ category (~43%)** is subject to confirmation pending data validation.
+- Despite males accounting for a relatively small share of total service utilisation (~11%) in 2024, demand for **Mental Health Support among males increased by ~11%**. **Growth in the ‘Other’ category (~43%)** is subject to confirmation pending data validation.
 
 <img width="1336" height="157" alt="image" src="https://github.com/user-attachments/assets/43f1932b-876d-40c2-961a-3bafe98e8415" />
 
