@@ -7,6 +7,12 @@
 
 This project analyses program utilisation across multiple datasets to support alignment of services and operational planning within healthcare teams, ensuring more responsive and effective support for patient needs.
 
+**Executive-driven questions:**
+- What proportion of service capacity was utilised versus lost?
+- During which periods do attended services peak, and when do cancellations and DNAs spike?
+- Which clients (by demographics, equity indicators, and risk factors) receive the most services, and what are the service types?
+- Which clients (by demographics, equity indicators, and risk factors, referral sources, and funding streams) account for capacity loss during that period, and which service types are most affected?
+
 **Insights and recommendations are provided on the following key areas:**
 
 - Program service growth (Year-over-Year: 2023→2024): High-level analysis of service delivery trends to inform workforce planning, resource allocation, and operational decision-making.
